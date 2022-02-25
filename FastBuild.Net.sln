@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.Core", "FastBuild.Core\FastBuild.Net.Core.csproj", "{999C66FF-4897-4459-B06D-74690E85B33B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.Core", "FastBuild.Net.Core\FastBuild.Net.Core.csproj", "{999C66FF-4897-4459-B06D-74690E85B33B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.Five.EfCore", "FastBuild.Five\FastBuild.Net.Five.EfCore.csproj", "{579818FB-4E06-4C11-93BE-32561BB13BE9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.Five.EfCore", "FastBuild.Net.Five\FastBuild.Net.Five.EfCore.csproj", "{579818FB-4E06-4C11-93BE-32561BB13BE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
