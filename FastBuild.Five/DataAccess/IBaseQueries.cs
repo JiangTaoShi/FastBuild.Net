@@ -1,9 +1,9 @@
-﻿using FastBuild.Five.DataObject;
+﻿using FastBuild.Net.Five.DataObject;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace FastBuild.Five.DataAccess
+namespace FastBuild.Net.Five.DataAccess
 {
     public interface IBaseQueries<TEntityRoot, TDbContext>
         where TEntityRoot : class, IAggregateRoot, new()

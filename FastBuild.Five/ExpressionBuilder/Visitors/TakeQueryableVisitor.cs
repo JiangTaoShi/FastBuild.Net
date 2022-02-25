@@ -1,10 +1,10 @@
 ﻿
 
 
-namespace FastBuild.Five.ExpressionBuilder
+namespace FastBuild.Net.Five.ExpressionBuilder
 {
-    using FastBuild.Five.DataObject;
-    using FastBuild.Five.Filter;
+    using FastBuild.Net.Five.DataObject;
+    using FastBuild.Net.Five.Filter;
     using System.Linq;
     using System.Reflection;
 

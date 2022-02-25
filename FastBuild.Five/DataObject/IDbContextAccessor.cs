@@ -1,5 +1,5 @@
 ﻿
-namespace FastBuild.Five.DataAccess
+namespace FastBuild.Net.Five.DataAccess
 {
     using Microsoft.EntityFrameworkCore;
     /// <summary>

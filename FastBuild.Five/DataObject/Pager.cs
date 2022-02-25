@@ -1,8 +1,8 @@
 ﻿
 
-namespace FastBuild.Five.DataObject
+namespace FastBuild.Net.Five.DataObject
 {
-    using FastBuild.Five.Filter;
+    using FastBuild.Net.Five.Filter;
     public class Pager
     {
         [SpecialOperation]

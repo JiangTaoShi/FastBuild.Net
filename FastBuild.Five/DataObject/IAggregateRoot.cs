@@ -1,4 +1,4 @@
-﻿namespace FastBuild.Five.DataObject
+﻿namespace FastBuild.Net.Five.DataObject
 {
     public interface IAggregateRoot { }
 }

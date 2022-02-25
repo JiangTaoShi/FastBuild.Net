@@ -1,7 +1,7 @@
 ﻿
-namespace FastBuild.Five.ExpressionBuilder
+namespace FastBuild.Net.Five.ExpressionBuilder
 {
-    using FastBuild.Five.Filter;
+    using FastBuild.Net.Five.Filter;
     using System.Collections.Generic;
     using System.Linq.Expressions;
     using System.Reflection;

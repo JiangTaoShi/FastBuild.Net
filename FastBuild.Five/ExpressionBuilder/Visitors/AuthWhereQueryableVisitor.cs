@@ -1,9 +1,9 @@
 ﻿
 
 
-namespace FastBuild.Five.ExpressionBuilder
+namespace FastBuild.Net.Five.ExpressionBuilder
 {
-    using FastBuild.Five.DataObject;
+    using FastBuild.Net.Five.DataObject;
     using System.Linq;
 
 

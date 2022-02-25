@@ -1,7 +1,7 @@
 ﻿
 
 
-namespace FastBuild.Five.ExpressionBuilder
+namespace FastBuild.Net.Five.ExpressionBuilder
 {
     using System;
     using System.Collections.Generic;

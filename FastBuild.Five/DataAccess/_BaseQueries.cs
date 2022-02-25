@@ -1,7 +1,7 @@
-﻿namespace FastBuild.Five.DataAccess
+﻿namespace FastBuild.Net.Five.DataAccess
 {
-    using FastBuild.Five.DataObject;
-    using FastBuild.Five.ExpressionBuilder;
+    using FastBuild.Net.Five.DataObject;
+    using FastBuild.Net.Five.ExpressionBuilder;
     using Microsoft.EntityFrameworkCore;
     using System;
     using System.Collections.Generic;

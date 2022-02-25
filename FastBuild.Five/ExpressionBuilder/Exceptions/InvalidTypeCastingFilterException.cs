@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FastBuild.Five.ExpressionBuilder
+namespace FastBuild.Net.Five.ExpressionBuilder
 {
     [Serializable]
     internal class InvalidTypeCastingFilterException : Exception

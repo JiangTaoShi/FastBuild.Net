@@ -1,6 +1,6 @@
 ﻿
 
-namespace FastBuild.Five.Filter
+namespace FastBuild.Net.Five.Filter
 {
 
     public class EqualAttribute : PredictiveActionBaseAttribute

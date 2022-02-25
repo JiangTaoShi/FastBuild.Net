@@ -1,7 +1,7 @@
 ﻿
 
 
-namespace FastBuild.Five.DataObject
+namespace FastBuild.Net.Five.DataObject
 {
     using System.Collections.Generic;
 

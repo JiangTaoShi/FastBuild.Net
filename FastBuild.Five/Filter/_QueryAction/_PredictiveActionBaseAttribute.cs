@@ -1,6 +1,6 @@
 ﻿
 
-namespace FastBuild.Five.Filter
+namespace FastBuild.Net.Five.Filter
 {
     /// <summary>
     /// 预测判断， 即Where从句条件

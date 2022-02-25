@@ -1,7 +1,7 @@
 ﻿
 
 
-namespace FastBuild.Five.Filter
+namespace FastBuild.Net.Five.Filter
 {
     using System;
 
