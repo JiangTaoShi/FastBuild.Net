@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/FastBuild.Net
+/FastBuild.Core/bin/Debug/netcoreapp3.1/FastBuild.Core.deps.json
+/FastBuild.Five/bin/Debug/netcoreapp3.1
+/FastBuild.Five/obj
+/FastBuild.Core/bin/Debug/netcoreapp3.1
+/FastBuild.Core/obj
