@@ -16,3 +16,5 @@
 /FastBuild.Net.PerformTest/obj
 /FastBuild.Net.UnitTest/bin/Debug/netcoreapp3.1
 /FastBuild.Net.UnitTest/obj
+/FastBuild.Net.Five.EfCore/bin/Debug/netcoreapp3.1
+/FastBuild.Net.Five.EfCore/obj
