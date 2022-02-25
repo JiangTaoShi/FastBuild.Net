@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.Core", "FastBuild.Net.Core\FastBuild.Net.Core.csproj", "{999C66FF-4897-4459-B06D-74690E85B33B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastBuild.Net.Core", "FastBuild.Net.Core\FastBuild.Net.Core.csproj", "{999C66FF-4897-4459-B06D-74690E85B33B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.Five.EfCore", "FastBuild.Net.Five\FastBuild.Net.Five.EfCore.csproj", "{579818FB-4E06-4C11-93BE-32561BB13BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastBuild.Net.Five.EfCore", "FastBuild.Net.Five\FastBuild.Net.Five.EfCore.csproj", "{579818FB-4E06-4C11-93BE-32561BB13BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.UnitTest", "FastBuild.Net.UnitTest\FastBuild.Net.UnitTest.csproj", "{1642F61E-46CF-47FA-97D5-180E707A00F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBuild.Net.PerformTest", "FastBuild.Net.PerformTest\FastBuild.Net.PerformTest.csproj", "{BB599FE7-13B4-428A-825D-B7867F5D4F85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{579818FB-4E06-4C11-93BE-32561BB13BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579818FB-4E06-4C11-93BE-32561BB13BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579818FB-4E06-4C11-93BE-32561BB13BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1642F61E-46CF-47FA-97D5-180E707A00F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1642F61E-46CF-47FA-97D5-180E707A00F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1642F61E-46CF-47FA-97D5-180E707A00F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1642F61E-46CF-47FA-97D5-180E707A00F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB599FE7-13B4-428A-825D-B7867F5D4F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB599FE7-13B4-428A-825D-B7867F5D4F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB599FE7-13B4-428A-825D-B7867F5D4F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB599FE7-13B4-428A-825D-B7867F5D4F85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
